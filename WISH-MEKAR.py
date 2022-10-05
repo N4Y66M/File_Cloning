@@ -24,7 +24,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from wish32 import login
+        from XNXX32 import login
  
  
         login()
